@@ -29,3 +29,8 @@
 	top: 0;
 	z-index: 100;
 }
+
+/* fix input-group icon padding*/
+.bv-form .input-group-addon:last-child {
+    padding-right: 24px;
+}
